@@ -6,10 +6,10 @@ Frontend Developer Intern @CJSF
 
 Currently sophmore @SFU CS, learning new skills and working on full stack projects. ChatGPT, Gemini FTW :P
 
-* 🌍  I'm based in Vancouver, Canada
-* ✉️  You can contact me at [pritam\_datta@sfu.ca](mailto:pritam_datta@sfu.ca)
-* 🧠  I'm learning MERN
-* 🤝  I'm open to collaborating on any fullstack project
+* 🌍  Based in Vancouver, Canada
+* ✉️   Can contact me at [pritam\_datta@sfu.ca](mailto:pritam_datta@sfu.ca)
+* 🧠  Learning MERN and enhancing DSA
+* 🤝  Open to collaborating on any fullstack project
 
 ### Skills
 
