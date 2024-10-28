@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Pritam Datta here
 ====================================================================================================================================
 
-Frontend Developer Intern @CJSF
+Full-Stack Developer Intern @CJSF
 -------------------------------
 
 Currently sophmore @SFU CS, learning new skills and working on full stack projects. ChatGPT, Gemini FTW :P
