@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Pritam here
 ====================================================================================================================================
 
-Full-Stack Developer Intern @CJSF
+Prev Full-Stack Developer Intern @CJSF
 -------------------------------
 
-Currently sophmore @SFU CS, learning new skills and working on full stack projects. ChatGPT, Gemini FTW :P
+Currently Junior @SFU CS, learning new skills and working on full stack projects. ChatGPT, Claude FTW :P
 
 * 🌍  Based in Vancouver, Canada
 * ✉️   Can contact me at [pritam\_datta@sfu.ca](mailto:pritam_datta@sfu.ca)
